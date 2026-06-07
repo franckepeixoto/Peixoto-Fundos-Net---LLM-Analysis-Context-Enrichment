@@ -555,33 +555,15 @@ for cnpj, ticker in fundos:
 
 - [ ] Adicionar cache de resultados (Redis)
 - [ ] Implementar webhooks para atualizações automáticas
-- [ ] Criar Dashboard web (Next.js/React)
-- [ ] Integração com mais LLMs (GPT, Grok, etc)
-- [ ] Histórico de análises
-- [ ] Alertas de preço
-- [ ] Exportar relatórios em PDF
-
 ---
-
-## 👨‍💻 Autores
-
-### Francke Peixoto
-
-**Desenvolvedor Full Stack | Especialista em Arquitetura de Software**
-
-Francke Peixoto é um desenvolvedor apaixonado por clean code, arquitetura escalável e aplicações inteligentes. Com experiência em:
 
 - 🏗️ **Arquitetura de Software**: Design de sistemas escaláveis
 - 🤖 **AI/ML Integration**: Integração com LLMs e AI
 - 📊 **Data Engineering**: Processamento e agregação de dados
-- ☁️ **Cloud Architecture**: Azure, AWS
+- ☁️ **Cloud Architecture**: Azure
 - 🔐 **Security & Compliance**: Boas práticas de segurança
 
 **Filosofia**: *"Código limpo, bem testado e bem documentado é um ato de respeito pelo próximo desenvolvedor."*
-
-📧 **Email**: francke.peixoto@outlook.com
-🔗 **GitHub**: https://github.com/francke
-💼 **LinkedIn**: https://linkedin.com/in/francke-peixoto
 
 ---
 
@@ -596,24 +578,5 @@ Este projeto é licenciado sob a MIT License - veja [LICENSE](LICENSE) para deta
 - **BMF Bovespa (FNET)**: Por disponibilizar dados de fundos
 - **ADVFN**: Por histórico de cotações
 - **Banco Central do Brasil**: Por indicadores econômicos
-- **Comunidade Python**: Pelas excelentes bibliotecas
 
----
 
-## 📞 Suporte
-
-Para dúvidas, sugestões ou issues:
-
-1. Abra uma [Issue no GitHub](https://github.com/francke/peixoto-fundos-net-logicapp/issues)
-2. Envie um email para `francke.peixoto@outlook.com`
-3. Consulte a [Documentação Técnica](docs/ARCHITECTURE.md)
-
----
-
-<div align="center">
-
-**Desenvolvido com ❤️ por Francke Peixoto**
-
-⭐ Se este projeto foi útil, deixe uma estrela! ⭐
-
-</div>
