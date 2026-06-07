@@ -93,7 +93,7 @@ Aqui, o contexto é **estruturado dinamicamente** para cada fundo, otimizado par
 ### Estrutura de Diretórios
 
 ```
-peixoto-fundos-net-logicapp/
+peixoto-fundos-net-LLM-analysis-context-enrichment-app/
 ├── src/
 │   ├── config.py                 # Configurações centralizadas
 │   ├── exceptions.py             # Exceções customizadas
@@ -136,7 +136,7 @@ peixoto-fundos-net-logicapp/
 
 ### Requisitos
 
-- Python 3.9+
+- Python 3.10+
 - Azure Functions (ou local com `func` CLI)
 - Dependências: `pip install -r requirements.txt`
 
